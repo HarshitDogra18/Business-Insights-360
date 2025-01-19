@@ -1,7 +1,7 @@
 
 
 
-# Business-Insights-360 - https://app.powerbi.com/view?r=eyJrIjoiYTg1MzRjNTYtYThkNi00ZGFiLWE5OTktNzg1OGE0YmZkZGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# Business-Insights-360 
 # Customized Dashboard for Global Sales Analysis
 
 ## Project Overview
